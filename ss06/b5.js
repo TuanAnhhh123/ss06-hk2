@@ -1,0 +1,9 @@
+"use strict";
+let undefinedVariable1;
+let undefinedVariable2;
+let numberVariable;
+let variable;
+console.log("undefinedVariable1:", undefinedVariable1);
+console.log("undefinedVariable2:", undefinedVariable2);
+console.log("numberVariable:", numberVariable);
+console.log("variable:", variable);
